@@ -1,4 +1,18 @@
 body{
     margin: 0;
     padding: 0;
+    background-color: aquamarine;
+
+}
+img{
+    width: 800px;
+    height: 500px;
+    display: block;
+    margin: 0 auto;
+}
+button{
+    width: 150px;
+    height: 50px;
+    font-size: 1.25rem;
+    color: blue;
 }
